@@ -84,6 +84,10 @@ resume-screening-nlp/
 - Use word embeddings (e.g. spaCy vectors, sentence-transformers) for
   semantic similarity instead of pure keyword overlap
 
+ ## Screenshot
+
+   ![Top candidates by job fit](top_candidates_chart.png) 
+
 ## Author
 
 Built by [Spoorthi Mynampati] as part of the Future Interns Machine Learning internship track.
