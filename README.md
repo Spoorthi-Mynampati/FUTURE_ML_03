@@ -86,7 +86,7 @@ resume-screening-nlp/
 
  ## Screenshot
 
-   ![Top candidates by job fit](top_candidates_chart.png) 
+   ![Top candidates by job fit](top_candidates_barchart.png) 
 
 ## Author
 
